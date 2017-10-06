@@ -1,8 +1,8 @@
 export default function (){
     return [
-        {title: 'javascipt' },
-        {title: 'harry poster' },
-        {title: 'the dark tower' },
-        {title: 'new moon' }
+        {title: 'javascipt', pages: 234 },
+        {title: 'harry poster', pages: 534 },
+        {title: 'the dark tower', pages: 64 },
+        {title: 'new moon', pages: 124 }
     ]
 }
